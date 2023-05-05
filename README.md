@@ -6,6 +6,9 @@
   <img alt="Profile views" title="Views" align="center" src="https://komarev.com/ghpvc/?username=lollipop-69&style=flat-square&color=ff69b4" /> </p>
 <p align="center">&nbsp;
   <img align="center" src="https://discord.c99.nl/widget/theme-3/545953035776688139.png" alt="whirlpool#2890" title="whirlpool#2890" /></p>
+<p align="center">&nbsp;
+  <img align="center" src="https://invidget.switchblade.xyz/egvmz5NjSZ?theme=light" alt="My Discord Server" title="Ghost Boy's Chamber" /></p>
+<br>
 <br>
 <p align="center"> 
   PUBLIC REPOSITORIES </p>
