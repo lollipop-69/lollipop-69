@@ -7,8 +7,7 @@
 <p align="center">&nbsp;
   <img align="center" src="https://discord.c99.nl/widget/theme-3/545953035776688139.png" alt="whirlpool#2890" title="whirlpool#2890" /></p>
 <p align="center">&nbsp;
-  <img align="center" src="https://invidget.switchblade.xyz/egvmz5NjSZ?theme=light" alt="My Discord Server" title="Ghost Boy's Chamber" /></p>
-<br>
+  <a href="https://discord.gg/egvmz5NjSZ" target="_blank"><img alt="My Discord Server" title="Ghost Boy's Chamber" src="https://invidget.switchblade.xyz/egvmz5NjSZ?theme=light"></a>
 <br>
 <p align="center"> 
   PUBLIC REPOSITORIES </p>
